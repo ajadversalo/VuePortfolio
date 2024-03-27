@@ -1,6 +1,6 @@
 <template>
   <div class="w-max">
-    <div class="text-5xl">
+    <div class="text-5xl w-100">
       {{ name }}
     </div>
   </div>
